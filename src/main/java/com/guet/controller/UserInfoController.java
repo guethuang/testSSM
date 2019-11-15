@@ -30,7 +30,7 @@ public class UserInfoController {
         response.sendRedirect(request.getContextPath()+"/account/findAll");
         return;
     }
-
+//测试github
 
     }
 
